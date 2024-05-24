@@ -8,13 +8,13 @@
 
 ## Tâches Accomplies
 ##### Screenshot :
-![S1.png](Screen4github%2FS1.png)
+!![img.png](img.png)
 
-**- Tâche 1 : Exec Presentation**
-![S2pres.png](Screen4github%2FS2pres.png)
+**- Tâche 1 : Exec & App.properties**
+![img_1.png](img_1.png)
 
-**- Tâche 2 : Exec PresentationSpringXML**
-![S3presXML.png](Screen4github%2FS3presXML.png)
+**- Tâche 2 : Exec Ebanking APP**
+![img_2.png](img_2.png)
 
 **- Tâche 3 : Exec PresSpringAnnot**
 ![S4presAnnot.png](Screen4github%2FS4presAnnot.png)
